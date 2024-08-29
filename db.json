@@ -1,0 +1,159 @@
+{
+  "notes": [
+    {
+      "id": "1",
+      "content": "'HTML is easy'",
+      "important": true
+    },
+    {
+      "id": "2",
+      "content": "'Browser can execute only JavaScript'",
+      "important": false
+    },
+    {
+      "id": "3",
+      "content": "'GET and POST are the most important methods of HTTP protocol'",
+      "important": true
+    },
+    {
+      "id": "cbe8",
+      "content": " jose",
+      "important": true
+    },
+    {
+      "id": "bb73",
+      "content": " pollo",
+      "important": false
+    },
+    {
+      "id": "8b23",
+      "content": " lolo",
+      "important": false
+    },
+    {
+      "id": "5e45",
+      "content": " koko",
+      "important": false
+    },
+    {
+      "id": "7927",
+      "content": " kiko",
+      "important": false
+    },
+    {
+      "id": "800d",
+      "content": " raul",
+      "important": false
+    },
+    {
+      "id": "07ad",
+      "content": " genaro",
+      "important": false
+    },
+    {
+      "id": "ec7b",
+      "content": " r",
+      "important": false
+    },
+    {
+      "id": "47ff",
+      "content": " r",
+      "important": true
+    },
+    {
+      "id": "ffbb",
+      "content": " g",
+      "important": true
+    },
+    {
+      "id": "7019",
+      "content": " g",
+      "important": false
+    },
+    {
+      "id": "4ee5",
+      "content": " g",
+      "important": true
+    },
+    {
+      "id": "ea84",
+      "content": " g",
+      "important": true
+    },
+    {
+      "id": "0f7a",
+      "content": " g",
+      "important": false
+    },
+    {
+      "id": "fa71",
+      "content": " g",
+      "important": true
+    },
+    {
+      "id": "6cd1",
+      "content": " g",
+      "important": false
+    },
+    {
+      "id": "f382",
+      "content": " g",
+      "important": false
+    },
+    {
+      "id": "a9ed",
+      "content": " g",
+      "important": true
+    },
+    {
+      "id": "d4b7",
+      "content": " g",
+      "important": true
+    },
+    {
+      "id": "b52e",
+      "content": " ff",
+      "important": false
+    },
+    {
+      "id": "f43f",
+      "content": " jj",
+      "important": false
+    },
+    {
+      "id": "f585",
+      "content": " tt",
+      "important": true
+    },
+    {
+      "id": "5caa",
+      "content": " t",
+      "important": false
+    },
+    {
+      "id": "8bff",
+      "content": " t",
+      "important": true
+    },
+    {
+      "id": "438d",
+      "content": " mm",
+      "important": false
+    },
+    {
+      "id": "faf8",
+      "content": "a  new note",
+      "important": false
+    },
+    {
+      "id": "41fb",
+      "content": "a  new note",
+      "important": false
+    },
+    {
+      "id": "f77e",
+      "content": " ll",
+      "important": true
+    }
+  ]
+}
